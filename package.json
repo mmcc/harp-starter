@@ -1,0 +1,17 @@
+{
+  "name": "eme-playground",
+  "version": "1.0.0",
+  "description": "EME testing things",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew McClure <matt@mmcc.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-browserify": "^3.3.0",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-harp": "^0.1.4"
+  }
+}
